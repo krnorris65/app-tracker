@@ -1,22 +1,28 @@
 {
-    "ideas": [
-        {
-            "id": 1,
-            "name": "Stitch It",
-            "description": "This app will allow a user to track cross stitch ideas",
-            "tools": "React, JSON-Server"
-        },
-        {
-            "id": 2,
-            "name": "Pup Pals",
-            "description": "This app will allow a user to track houses and pets in their neighborhood",
-            "tools": "ASP.NET MVC, Google Maps API, SQLite"
-        },
-        {
-            "id": 3,
-            "name": "Life Reel",
-            "description": "This app will allow a user to track major life events as they happen",
-            "tools": "AngularJS, Firebase"
-        }
-    ]
+  "ideas": [
+    {
+      "id": 1,
+      "name": "Stitch It",
+      "description": "This app will allow a user to track cross stitch ideas",
+      "tools": "React, JSON-Server"
+    },
+    {
+      "id": 2,
+      "name": "Pup Pals",
+      "description": "This app will allow a user to track houses and pets in their neighborhood",
+      "tools": "ASP.NET MVC, Google Maps API, SQLite"
+    },
+    {
+      "id": 3,
+      "name": "Life Reel",
+      "description": "This app will allow a user to track major life events as they happen",
+      "tools": "AngularJS, Firebase"
+    },
+    {
+      "name": "AppSquared",
+      "description": "Save ideas for new apps to build",
+      "tools": "Javascript",
+      "id": 4
+    }
+  ]
 }
